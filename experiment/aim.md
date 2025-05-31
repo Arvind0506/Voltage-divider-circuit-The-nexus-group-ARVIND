@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Design and Analysis of Voltage Divider Network
