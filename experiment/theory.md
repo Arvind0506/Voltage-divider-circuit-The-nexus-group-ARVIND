@@ -3,18 +3,18 @@ The voltage divider is a simple circuit used to reduce voltage using two resisto
 
 Formula: 
 
-The output voltage (\(V_{\text{out}}\)) of a voltage divider circuit is given by:
+The output voltage V<sub>out</sub> of a voltage divider circuit is given by:
 
 $$V_{\text{out}} = V_{\text{in}} \times \frac{R_2}{R_1 + R_2}$$
 
-Similarly, the voltage across \( R_1 \) can be calculated as:
+Similarly, the voltage across R<sub>1</sub> can be calculated as:
 
 $$V_{R_1} = V_{\text{in}} \times \frac{R_1}{R_1 + R_2}$$
 
 
 where:
-- \(V_{\text{in}}\) is the input voltage,
-- \(R_1\) and \(R_2\) are the resistances in the divider network.
+- V<sub>out</sub> is the input voltage,
+- R<sub>1</sub> are the resistances in the divider network.
 
 This formula is fundamental in electronics for scaling voltage levels efficiently.
               
