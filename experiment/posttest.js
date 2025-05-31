@@ -90,58 +90,58 @@
 
   const myQuestions = [
     {
-      question1: "What happens to the collector current when the base current is removed in switching mode?",  
+      question1: "When a load is connected across R2, the effective output voltage:",  
       answers: {
-        a: "It increases",
-        b: "It remains the same",
-        c: "It drops to zero",
-        d: "It becomes negative"
+        a: "Increases",
+        b: "Decreases",
+        c: "Remains same",
+        d: "Doubles"
         },
-      "correctAnswer": "c"               
+      "correctAnswer": "b"               
     },
 
     {
-      question2: " In saturation mode, both the base-emitter and base-collector junctions are:",  ///// Write the question inside double quotes
+      question2: " The loading effect in a voltage divider occurs due to:",  ///// Write the question inside double quotes
       answers: {
-        a: "Forward biased",
-        b: "Reverse biased",
-        c: "Forward and reverse biased respectively",
-        d: "Unbiased"
+        a: "Faulty resistors",
+        b: "Low load resistance",
+        c: "High input voltage",
+        d: "Open circuit"
       },
-      "correctAnswer": "a"                ///// Write the correct option inside double quotes
+      "correctAnswer": "b"                ///// Write the correct option inside double quotes
     },
     
     {
-      question3: "What is the primary function of a transistor in switching mode?",  
+      question3: "Voltage divider circuits are best suited for:",  
       answers: {
-        a: "Amplification",
-        b: "Filtering",
-        c: "Rectification",
-        d: "Turning circuits on/off"
+        a: "Driving motors",
+        b: "Supplying high current",
+        c: "Providing reference voltages",
+        d: "Generating AC signals"
         },
       "correctAnswer": "c"              
     },
 
     {
-      question4: "What does the transistor act like in switching mode?",  
+      question4: "In the experiment, the measured Vout was lower than expected with load due to:",  
       answers: {
-        a: "A rectifier",
-        b: "A diode",
-        c: "A switch",
-        d: "A signal generator"
+        a: "Increase in R1",
+        b: "Decrease in total resistance at output",
+        c: "Increase in Vin",
+        d: "Short circuit"
         },
-      "correctAnswer": "c"               
+      "correctAnswer": "b"               
     },
 
     {
-      question5: "Which component is commonly connected with the transistor to control an LED blink?",  
+      question5: "What is a key learning from the voltage divider experiment?",  
       answers: {
-        a: "Inductor",
-        b: "Capacitor",
-        c: "Resistor",
-        d: "Transformer"
+        a: "Inductance behavior",
+        b: "Voltage division and loading effect",
+        c: "Amplifier design",
+        d: "AC signal analysis"
         },
-      "correctAnswer": "c"               
+      "correctAnswer": "b"               
     },
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
