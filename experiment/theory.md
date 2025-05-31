@@ -23,6 +23,9 @@ This formula is fundamental in electronics for scaling voltage levels efficientl
 
 This formula shows that by adjusting the values of R1 and R2, the output voltage Vout can be varied proportionally.
 
+## Circuit diagram
+<center><img src="circuit.jpg"></center>
+
 
 ## Features of Simulation:
 
