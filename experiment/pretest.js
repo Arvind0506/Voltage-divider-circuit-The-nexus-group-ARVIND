@@ -114,9 +114,9 @@
       question: "3. What is the formula for output voltage in a voltage divider?",  ///// Write the question inside double quotes
        answers: {
          a: "V<sub>out</sub> = R<sub>1</sub> + R<sub>2</sub> ",                  ///// Write the option 1 inside double quotes
-         b: "नलिका की लंबाई",                  ///// Write the option 2 inside double quotes
-         c: "तापमान",                  ///// Write the option 3 inside double quotes
-         d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+         b: "V<sub>out</sub> = V_{\text{in}} \times \frac{R_1}{R_1 + R_2}",                  ///// Write the option 2 inside double quotes
+         c: "V<sub>out</sub> = V_{\text{in}} \times \frac{R_1}{R_2}",                  ///// Write the option 3 inside double quotes
+         d: "V<sub>out</sub> = \times \fracV_{\text{in}} {R_1 + R_2}"                   ///// Write the option 4 inside double quotes
        },
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      }, 
