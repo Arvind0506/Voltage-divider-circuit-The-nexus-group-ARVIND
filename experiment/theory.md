@@ -1,4 +1,6 @@
-### THEORY
+## THEORY
+
+### Voltage Divider
 The voltage divider is a simple circuit used to reduce voltage using two resistors in series. The output voltage is taken from the junction of the two resistors.
 
 Formula: 
@@ -22,26 +24,24 @@ This formula is fundamental in electronics for scaling voltage levels efficientl
 This formula shows that by adjusting the values of R1 and R2, the output voltage Vout can be varied proportionally.
 
 
----
+## Features of Simulation:
 
-🖥️ Features of Simulation:
+<li>Sliders to control Vin, R1, and R2 values.</li>
 
-Sliders to control Vin, R1, and R2 values.
+<li>Real-time Vout calculation and display.</li>
 
-Real-time Vout calculation and display.
+<li>Graphical representation using voltmeter and oscilloscope images.</li>
 
-Graphical representation using voltmeter and oscilloscope images.
+<li>Animated arrows to show current direction.</li>
 
-Animated arrows to show current direction.
+<li>Component value table that updates live.</li>
 
-Component value table that updates live.
+<li>Responsive UI for web-based access via GitHub.</li>
 
-Responsive UI for web-based access via GitHub.
+### Applications:
 
-Applications:
+<li>Used in analog electronics to scale down voltages.</li>
 
-Used in analog electronics to scale down voltages.
+<li>Acts as a biasing element in transistor circuits.</li>
 
-Acts as a biasing element in transistor circuits.
-
-Helps in signal conditioning and level shifting in embedded systems.
+<li>Helps in signal conditioning and level shifting in embedded systems.</li>
