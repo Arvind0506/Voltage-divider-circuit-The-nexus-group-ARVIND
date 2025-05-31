@@ -1,9 +1,12 @@
 ## THEORY
 
 ### Voltage Divider
+A <b>voltage divider</b> is a simple circuit used to generate a specific output voltage (Vout) that is a fraction of the input voltage (Vin). It is commonly used in analog circuits for signal conditioning, reference voltages, and biasing active devices.
+
+The voltage divider circuit consists of two resistors,  and , connected in series across a voltage source. The output voltage is taken from the junction of these two resistors.
 The voltage divider is a simple circuit used to reduce voltage using two resistors in series. The output voltage is taken from the junction of the two resistors.
 
-Formula: 
+<b>Formula: </b>
 
 The output voltage V<sub>out</sub> of a voltage divider circuit is given by:
 
@@ -24,7 +27,7 @@ This formula is fundamental in electronics for scaling voltage levels efficientl
 This formula shows that by adjusting the values of R1 and R2, the output voltage Vout can be varied proportionally.
 
 ## Circuit diagram
-<center><img src="circuit.jpg"></center>
+<center><img src="images/circuit.jpg"></center>
 
 
 ## Features of Simulation:
@@ -48,3 +51,8 @@ This formula shows that by adjusting the values of R1 and R2, the output voltage
 <li>Acts as a biasing element in transistor circuits.</li>
 
 <li>Helps in signal conditioning and level shifting in embedded systems.</li>
+
+<li>Sensor interfacing (to scale sensor output).</li>
+
+<li> Volume control in audio circuits.</li>
+
