@@ -1,1 +1,1 @@
-### Design and Analysis of Voltage Divider Network
+### To design a voltage divider circuit using resistora and analyze its behavior .
