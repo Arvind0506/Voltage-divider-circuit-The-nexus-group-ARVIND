@@ -1,24 +1,29 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Electronics Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Basic Electronics
+<b> Experiment|     <b> Design and Analysis of voltage Divider Networks
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This simulation demonstrates the working of a voltage divider circuit, a fundamental concept in electronics. A voltage divider uses two resistors (R1 and R2) connected in series across a DC power supply to generate a specific output voltage (Vout) that is a portion of the input voltage (Vin).
+
+By adjusting the input voltage and resistor values using sliders, users can observe how the output voltage changes in real-time. The simulation visually represents the circuit using components like:
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College, Kannauj
+<b> Email id|     <b>  rajeev@reck.ac.in
+<b> Department |   Electronics Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | <b>Arvind Sharma</b> | Student  | Department of Electronics Engineering | Rajkiya Engineering College kannauj | arvindsharma052006@gmail.com
+2 | <b>Harsh Pandey</b> | Student | Department of Electronics Engineering | Rajkiya Engineering College kannauj | harsh9092092@gmail.com
+3 |<b> Utkarsh Mishra</b> | Student | Department of Electronics Engineering | Rajkiya Engineering College kannauj | mishrau342@gmail.com
+4 | <b>Ankit Kumar</b> | Student | Department of Electronics Engineering | Rajkiya Engineering College kannauj | ankit798388@gmail.com
+
