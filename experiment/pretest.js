@@ -90,30 +90,30 @@
 
   const myQuestions = [
     {
-      question: "1. जिस सिद्धांत पर विशिष्ट घूर्णन के प्रयोग का आधार है वह है:",  ///// Write the question inside double quotes
+      question: "1. What is the purpose of a voltage divider circuit?",  ///// Write the question inside double quotes
       answers: {
-        a: "ध्रुवीकृत प्रकाश ऑप्टिकली सक्रिय माध्यम से गुजरते समय दो घटकों में विभाजित हो जाता है",                  ///// Write the option 1 inside double quotes
-        b: "ध्रुवीकृत प्रकाश ऑप्टिकली सक्रिय माध्यम से गुजरते समय घुमता है",                  ///// Write the option 2 inside double quotes
-        c: "ध्रुवीकृत प्रकाश पानी से गुजरते समय विचलित हो जाता है",                  ///// Write the option 3 inside double quotes
-        d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+        a: "To amplify voltage",                  ///// Write the option 1 inside double quotes
+        b: "To increase current",                  ///// Write the option 2 inside double quotes
+        c: "To reduce voltage",                  ///// Write the option 3 inside double quotes
+        d: "To store energy"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "2. शुगर घोल की सांद्रता बढ़ाने पर ध्रुवीकृत प्रकाश का घुमाव कोण:",  ///// Write the question inside double quotes
+     question: "2. Which components are used in a basic voltage divider?",  ///// Write the question inside double quotes
       answers: {
-        a: "बढ़ता है",                  ///// Write the option 1 inside double quotes
-        b: " घटता है",                  ///// Write the option 2 inside double quotes
-        c: "अपरिवर्तित रहता है",                  ///// Write the option 3 inside double quotes
-        d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+        a: "Capacitors",                  ///// Write the option 1 inside double quotes
+        b: "Inductors",                  ///// Write the option 2 inside double quotes
+        c: "Resistors",                  ///// Write the option 3 inside double quotes
+        d: "Diodes"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },     
     {
-      question: "3. किसी भी घोल का विशिष्ट घूर्णन किस पर निर्भर करता है:",  ///// Write the question inside double quotes
+      question: "3. What is the formula for output voltage in a voltage divider?",  ///// Write the question inside double quotes
        answers: {
-         a: "सांद्रता",                  ///// Write the option 1 inside double quotes
+         a: "V<sub>out</sub> = R<sub>1</sub> + R<sub>2</sub> ",                  ///// Write the option 1 inside double quotes
          b: "नलिका की लंबाई",                  ///// Write the option 2 inside double quotes
          c: "तापमान",                  ///// Write the option 3 inside double quotes
          d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
@@ -121,16 +121,25 @@
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      }, 
      {
-      question: "4. यदि नलिका की लंबाई बढ़ाई जाए तो किसी भी घोल का विशिष्ट घूर्णन:",  ///// Write the question inside double quotes
+      question: "4. What happens to output voltage if load resistance is low?",  ///// Write the question inside double quotes
        answers: {
-         a: "बढ़ता है",                  ///// Write the option 1 inside double quotes
-         b: "घटता है",                  ///// Write the option 2 inside double quotes
-         c: "अपरिवर्तित रहता है",                  ///// Write the option 3 inside double quotes
-         d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+         a: "It increases",                  ///// Write the option 1 inside double quotes
+         b: "It decreases",                  ///// Write the option 2 inside double quotes
+         c: "No change",                  ///// Write the option 3 inside double quotes
+         d: "It becomes zero"                   ///// Write the option 4 inside double quotes
        },
-       correctAnswer: "c"                ///// Write the correct option inside double quotes
+       correctAnswer: "b"                ///// Write the correct option inside double quotes
      },                              ///// To add more questions, copy the section below 
-    									                  ///// this line
+    {
+      question: "5. To minimize loading effect, the load resistance",
+      answers: {
+        a: "Equal to R2",
+        b: "Less than R2",
+        c: "Much greater than R2",
+        d: "Zero"
+      },
+      correctAnswer: "c"
+    },									                  ///// this line
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
