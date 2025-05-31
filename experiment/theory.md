@@ -27,8 +27,10 @@ This formula is fundamental in electronics for scaling voltage levels efficientl
 This formula shows that by adjusting the values of R1 and R2, the output voltage Vout can be varied proportionally.
 
 ## Circuit diagram
-<center><img src="images/circuit.jpg"></center>
-
+<!--<center><img src="images/circuit.jpg" ></center>-->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="images/circuit.jpg" alt="Voltage Divider Circuit" style="width: 250px; height: auto;" />
+</div>
 
 ## Features of Simulation:
 
