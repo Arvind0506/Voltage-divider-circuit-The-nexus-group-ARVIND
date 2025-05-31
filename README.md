@@ -12,7 +12,7 @@ This simulation demonstrates the working of a voltage divider circuit, a fundame
 
 By adjusting the input voltage and resistor values using sliders, users can observe how the output voltage changes in real-time. The simulation visually represents the circuit using components like:
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Mr. Rajeev Kumar 
 :--|:--|
 <b> Institute | <b>  Rajkiya Engineering College, Kannauj
 <b> Email id|     <b>  rajeev@reck.ac.in
