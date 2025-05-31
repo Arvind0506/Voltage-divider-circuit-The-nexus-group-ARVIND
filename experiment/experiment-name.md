@@ -1,1 +1,1 @@
-## Experiment name
+## Design and Analysis of Voltage Divider Network
