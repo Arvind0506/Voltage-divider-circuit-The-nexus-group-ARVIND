@@ -16,7 +16,7 @@ By adjusting the input voltage and resistor values using sliders, users can obse
 :--|:--|
 <b> Institute | <b>  Rajkiya Engineering College, Kannauj
 <b> Email id|     <b>  rajeev@reck.ac.in
-<b> Department |   Electronics Engineering
+<b> Department |   Department of Electronics Engineering
 
 ### Contributors List
 
