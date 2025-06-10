@@ -1,4 +1,4 @@
-### REFERENCES
+
 1. All About Circuits – Voltage Divider Experiment
 This resource provides a hands-on approach to building and analyzing a voltage divider circuit, including measuring voltages and currents using a voltmeter and an ammeter.
 🔗 https://www.allaboutcircuits.com/textbook/experiments/chpt-3/voltage-divider/
