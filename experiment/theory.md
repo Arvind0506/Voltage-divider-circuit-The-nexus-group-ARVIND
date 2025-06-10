@@ -1,5 +1,3 @@
-## THEORY
-
 ### Voltage Divider
 A <b>voltage divider</b> is a simple circuit used to generate a specific output voltage (Vout) that is a fraction of the input voltage (Vin). It is commonly used in analog circuits for signal conditioning, reference voltages, and biasing active devices.
 
