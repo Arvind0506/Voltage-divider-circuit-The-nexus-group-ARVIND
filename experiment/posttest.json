@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "When a load is connected across R2, the effective output voltage:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains same",
+        "d": "Double"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,33 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The loading effect in a voltage divider occurs due to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Faulty resistors",
+        "b": "Low load resistance",
+        "c": "High input voltage",
+        "d": "Open circuit"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Voltage divider circuits are best suited for:",
+      "answers": {
+        "a": "Driving motors",
+        "b": "Supplying high current",
+        "c": "Providing reference voltage",
+        "d": "Generating Ac signals"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +50,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the experiment, the measured Vout was lower than expected with load due to:",
+      "answers": {
+        "a": "Increase in R1",
+        "b": "Decrease in total resistance at output",
+        "c": "Increase in Vin",
+        "d": "Short circuit"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a key learning from the voltage divider experiment?",
+      "answers": {
+        "a": "Inductance behavior",
+        "b": "Voltage division and loading effect",
+        "c": "Amplifier design",
+        "d": "AC signal analysis"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
