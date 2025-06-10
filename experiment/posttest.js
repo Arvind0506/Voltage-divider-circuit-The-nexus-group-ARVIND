@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question1: "When a load is connected across R2, the effective output voltage:",  
+      question: "When a load is connected across R2, the effective output voltage:",  
       answers: {
         a: "Increases",
         b: "Decreases",
@@ -101,7 +101,7 @@
     },
 
     {
-      question2: " The loading effect in a voltage divider occurs due to:",  ///// Write the question inside double quotes
+      question: " The loading effect in a voltage divider occurs due to:",  ///// Write the question inside double quotes
       answers: {
         a: "Faulty resistors",
         b: "Low load resistance",
@@ -112,7 +112,7 @@
     },
     
     {
-      question3: "Voltage divider circuits are best suited for:",  
+      question: "Voltage divider circuits are best suited for:",  
       answers: {
         a: "Driving motors",
         b: "Supplying high current",
@@ -123,7 +123,7 @@
     },
 
     {
-      question4: "In the experiment, the measured Vout was lower than expected with load due to:",  
+      question: "In the experiment, the measured Vout was lower than expected with load due to:",  
       answers: {
         a: "Increase in R1",
         b: "Decrease in total resistance at output",
@@ -134,7 +134,7 @@
     },
 
     {
-      question5: "What is a key learning from the voltage divider experiment?",  
+      question: "What is a key learning from the voltage divider experiment?",  
       answers: {
         a: "Inductance behavior",
         b: "Voltage division and loading effect",
