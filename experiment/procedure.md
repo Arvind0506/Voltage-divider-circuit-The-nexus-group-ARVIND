@@ -1,4 +1,4 @@
-## Procedure
+
 <b>1.</b> Set up the circuit on a breadboard as per the diagram using two resistors (R1 and R2).
 
 
