@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the purpose of a voltage divider circuit?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To amplify voltage",
+        "b": "To increase current",
+        "c": "To reduce voltage",
+        "d": "To store energy"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,67 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which components are used in a basic voltage divider?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Capacitors",
+        "b": "Inductors",
+        "c": "Resistors",
+        "d": "Diodes"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the formula for output voltage in a voltage divider?",
+      "answers": {
+        "a": "V<sub>out</sub> = R<sub>1</sub> + R<sub>2</sub>",
+        "b": "V<sub>out</sub> = V_{\text{in}} \times \frac{R_1}{R_1 + R_2}",
+        "c": "V<sub>out</sub> = V_{\text{in}} \times \frac{R_1}{R_2}",
+        "d": "V<sub>out</sub> = \times \fracV_{\text{in}} {R_1 + R_2}"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens to output voltage if load resistance is low?",
+      "answers": {
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "No change",
+        "d": "It becomes"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To minimize loading effect, the load resistance",
+      "answers": {
+        "a": "Equal to R2",
+        "b": "Less to R2",
+        "c": "Much greater than R2",
+        "d": "Zero"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
